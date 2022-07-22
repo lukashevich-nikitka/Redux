@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.app {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.buttons {
+  display: flex;
+  gap: 30px;
+}
+
+button {
+  cursor: pointer;
+}
